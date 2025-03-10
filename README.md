@@ -27,7 +27,6 @@ Here are some of the technologies and tools I work with:
 ![IPFS](https://img.shields.io/badge/IPFS-3C3C3D?style=for-the-badge&logo=IPFS&logoColor=white)
 
 ---
-Congratulations!!!!
 ## 🌟 Featured Projects
 
 Here are some of my notable blockchain projects:
